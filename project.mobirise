@@ -47,7 +47,7 @@
     "uniqCompNum": 46,
     "versionPublish": "4.12.4",
     "imageResize": true,
-    "favicon": "@PROJECT_PATH@/assets/images/tradytec-azul-128x183.png",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-sapica-1-128x34.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
